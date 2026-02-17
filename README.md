@@ -1,20 +1,33 @@
-<<<<<<< HEAD
-# task_manager_app
+# Task Manager Flutter App
 
-A new Flutter project.
+## 📌 Description
+A simple Task Manager mobile application built using Flutter.
+Users can add, edit, and delete tasks with a selected date.
+The app uses Hive for local storage, so tasks remain saved even after restarting the app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Add new task
+- Edit task
+- Delete task
+- Select date using Date Picker
+- Persistent local storage using Hive
+- Clean UI with Provider state management
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Provider
+- Hive (Local Storage)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# task-manager-flutter
->>>>>>> 29e5a5ecd628f0da232db407bfe81db5c43cd8ea
+---
+
+## 📱 How to Run the App
+
+1. Clone the repository
+2. Run:
+
+
